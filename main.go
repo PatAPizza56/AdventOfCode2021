@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/day1"
+	"github.com/AdventOfCode2021/day1"
 )
 
 func main() {
